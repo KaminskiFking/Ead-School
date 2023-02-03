@@ -1,11 +1,11 @@
 server:
-  port: 8089
+  port: 8082
 
 spring:
   datasource:
-    url:  jdbc:postgresql://localhost:5432/ead-authuser
+    url:  jdbc:postgresql://localhost:5432/ead-course
     username: postgres
-    password: banco123
+    password: O566452140197
   jpa:
     hibernate:
       ddl-auto: update
